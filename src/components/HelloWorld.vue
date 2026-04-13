@@ -24,7 +24,7 @@ const count = ref(0)
     <a
       href="https://www.facebook.com/AkioTakanashi.1.2"
       target="_blank"
-      >to learn more about me.</a
+      >Facebook</a
     >.
   </p>
   <p class="read-the-docs">have a nice day, programmers.</p>
